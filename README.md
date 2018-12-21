@@ -6,14 +6,14 @@ There are four important places:
 
 - The first 2 important files are the "data" folder containing the original datasets and the SDA-Gen-Data.ipynb, which is needed to format the two (vgsales.csv and Video_games_Sales_as_at_22_Dec_2016.csv) different data-sets) into one csv file.
 
-- After this we executed some general analysis over the newly generated data to get an indication of how we could use this data. This can be found in the Overview_of_the_data.csv
+- After this we executed some general analysis over the newly generated data to get an indication of how we could use this data. This can be found in the Overview_of_the_data.ipynb
 
-- Secondly the main file that utilizes this generated data will be SDA-BigHits.ipynb. This file will contain all the anaysises about the data and the several ways in which we implemented statistical analysis methods to try to predict the next big hit genre.
+- Secondly the main file that utilizes this generated data will be SDA-BigHits.ipynb. This file will contain all the analyses about the data and the several ways in which we implemented statistical analysis methods to try to predict the next big hit genre.
 
 - Finally there are two folders left "Documenten" and "Picture plots" and one file "Extra-Info.ipynb". 
 	- "Documenten" will contain the files about our project plan and our presentation about the project.
 	- "Picture plots" will contain pictures of several important plots, which were used in the presentation.
-	- "Extra-Info.ipynb" contains some additional plots that weren't added to the BigHits notebook that didn't let to a huge conclusion and it contains some duplicate plots from the BigHits notebook.
+	- "Extra-Info.ipynb" contains some additional plots that weren't added to the BigHits notebook that didn't lead to a huge conclusion and it contains some duplicate plots from the BigHits notebook.
 
 ## How to use our files
 - First run everything in the SDA-Gen-Data.ipynb notebook.
